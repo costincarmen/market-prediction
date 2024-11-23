@@ -6,8 +6,6 @@ The Market Prediction Application is a tool designed to forecast market trends u
 
 The application is built with a modular structure, incorporating Python for backend data processing, HTML for the user interface, and CSS for styling. It serves as a foundation for further enhancements and real-world implementations in financial forecasting, stock analysis, and business trend predictions.
 
-Additionally, this project serves as an educational resource for learning version control workflows using Git and GitHub, showcasing tasks such as creating branches, merging changes, and collaborating effectively.
-
 
 
 
